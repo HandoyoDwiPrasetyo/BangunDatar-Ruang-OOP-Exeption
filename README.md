@@ -1,2 +1,2 @@
 # BangunDatar-Ruang-OOP-Exeption
-Masih Error
+Masih Error kayak orangnya
